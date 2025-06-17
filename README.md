@@ -12,5 +12,5 @@ In the second notebook, I focused on experimenting. I merged tables, filtered co
 ### What really caught my attention?  
 **Graphs!** I’m especially excited to explore how to turn raw data into meaningful visuals. Whether through the elegance of **Altair** or by styling with
 #plt.style.use('fivethirtyeight')
-
+> **ProTip:** You can understand this **better** through **notebooks**.
 
