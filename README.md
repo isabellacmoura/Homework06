@@ -1,5 +1,5 @@
 # Homework06
-#Plain and Powerful pandas
+# Plain and Powerful pandas
 
 ## First encounter: exploring the basics with pandas  
 In the first notebook, I dove into the essential features of pandas — that library that turns tables into data playgrounds. It felt like opening a toolbox and realizing there’s more than just a hammer: there are wrenches, pliers, and even power drills.
@@ -10,9 +10,7 @@ In the second notebook, I focused on experimenting. I merged tables, filtered co
 ---
 
 ### What really caught my attention?  
-**Graphs!** <h2 style="color:#D35400;">I’m especially excited to explore how to turn raw data into meaningful visuals. Whether through the elegance of **Altair** or by styling with:
-
-```python
-<code>#plt.style.use('fivethirtyeight')</code>.
+**Graphs!** <h2 style="color:#D35400;">I’m especially excited to explore how to turn raw data into meaningful visuals. Whether through the elegance of **Altair** or by styling with
+#plt.style.use('fivethirtyeight')
 </h2>
 
